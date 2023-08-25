@@ -1,7 +1,6 @@
 Setup environment variables
 
-
 ```bash
-export IP="192.168.154.84"; export URL="http://$IP"; echo $IP $URL
+export IP="1.2.3.4"; export URL="http://$IP"; echo $IP $URL
 ```
 
